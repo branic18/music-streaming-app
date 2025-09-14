@@ -1,4 +1,4 @@
- can# Spottify - Music Streaming Application
+ # Spottify - Music Streaming Application
 
 A modern, web-based music streaming application built with Next.js, React, and TypeScript. Spottify provides a comprehensive music streaming experience with search, playlist management, and audio playback capabilities.
 
